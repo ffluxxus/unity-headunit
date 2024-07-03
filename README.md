@@ -1,7 +1,7 @@
 
 # DIY Unity Based Headunit
 
-If you are looking for the car power supply with ignition state detection [go to documentation]()
+If you are looking for hardware, extra source code, and previews go to [our documentation](https://flux-11.gitbook.io/headunit)
 
 For support of other platforms please create an issue report
 
