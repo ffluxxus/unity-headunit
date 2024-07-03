@@ -3,7 +3,8 @@
 
 If you are looking for hardware, extra source code, and previews go to [our documentation](https://flux-11.gitbook.io/headunit)
 
-For support of other platforms please create an issue report
+For support of other platforms please create an issue report.
+I cannot upload the entire project to Unity due to security reasons, but you can contact me to purchase it and I will clear it up.
 
 ### Description
 Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main component + C++ (arduino). Main goal is to create a universal headunit that runs on any x86 linux system (not rpi).
