@@ -40,6 +40,7 @@ CC0-1.0
  - [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser) | Used for Carplay / Spotify System
  - [Unity Engine Personal](https://unity.com/) 
  - [3D Model Showcase Project](https://github.com/LeoBlanchette/Unity3dModelShowcase) | Used Camera System, Post Processing Effects, used as base project
+ - [ArduinoOBD](https://github.com/stanleyhuangyc/ArduinoOBD) | Used for retrieving OBD data from vehicle
 
 ### Remarks
 **This software is not certified by Google Inc. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
