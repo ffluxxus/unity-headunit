@@ -49,6 +49,7 @@ CC0-1.0
  - [3D Model Showcase Project](https://github.com/LeoBlanchette/Unity3dModelShowcase) | Used Camera System, Post Processing Effects, used as base project
  - [Arduino OBD](https://github.com/stanleyhuangyc/ArduinoOBD) | Used for retrieving OBD data from vehicle
  - [Arduino Communication](https://mauznemo.de/smart_miata_prev/) | Used for alot of the Arduino Communication code and more
+ - [Node Carplay](https://github.com/rhysmorgan134/node-CarPlay) | Used for CarPlay implementation
 
 ### Remarks
 **This software is not certified by Google Inc. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
