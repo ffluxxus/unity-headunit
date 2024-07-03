@@ -8,6 +8,12 @@ For support of other platforms please create an issue report
 ### Description
 Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main component + C++ (arduino). Main goal is to create a universal headunit that runs on any x86 linux system (not rpi).
 
+### Unity Settings
+ - Version: `2021.3.22f1`
+ - Platform: `Windows, Mac, Linux`
+ - Target Platform: `Linux` | `Windows Intel 64-bit` is used during testing
+ - Overrides: `None`
+
 ### Supported Systems
  - [YouYeeToo X1 x86 SBC](https://amazon.com/dp/B0CCY2RBCS/)
  - Any x86 / x64 System
