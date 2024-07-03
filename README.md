@@ -13,16 +13,18 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
  - Any x86 / x64 System
 
 ### Supported functionalities
- - 480p, 720p and 1080p with 30 or 60 FPS
- - RaspberryPI 3 hardware acceleration support to decode video stream (up to 1080p@60!)
- - Audio playback from all audio channels (Media, System and Speech)
- - Audio input for voice commands
+ - Any supported Unity3D resolutions
+ - CarPlay supports the basic 480p resolution (max 60FPS)
+ - Audio playback from CarPlay
+ - Wired / Wireless CarPlay & Android Auto
  - Touchscreen and buttons input
- - Bluetooth
+ - Bluetooth Connection
  - Automatic launch after device hotplug
- - Automatic detection of connected Android devices
- - Wireless (WiFi) mode via head unit server (must be enabled in hidden developer settings)
- - User-friendly settings
+ - Automatic / Manual detection of connected devices
+ - User-friendly UI
+ - Development / Debug options
+ - Swap Android Auto / CarPlay to Spotify Application
+ - Supports any web browser based applications and allows touch, keyboard, and audio input / output
 
 ### Supported platforms
 
