@@ -32,7 +32,7 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
  - Windows
 
 ### License
-GNU GPLv3
+CC0-1.0
 
 *AndroidAuto is registered trademark of Google Inc.*
 
