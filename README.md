@@ -45,8 +45,6 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
 ### License
 CC0-1.0
 
-*AndroidAuto is registered trademark of Google Inc.*
-
 ### Used repositories
  - [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser) | Used for Carplay / Spotify System
  - [Unity Engine Personal](https://unity.com/) 
@@ -56,4 +54,7 @@ CC0-1.0
  - [Node Carplay](https://github.com/rhysmorgan134/node-CarPlay) | Used for CarPlay implementation
 
 ### Remarks
-**This software is not certified by Google Inc. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
+**This software is not certified by Google Inc nor Apple Inc. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
+
+*AndroidAuto is registered trademark of Google Inc.*
+*Carplay is registered trademark of Apple Inc.*
