@@ -32,6 +32,10 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
  - Development / Debug options
  - Swap Android Auto / CarPlay to Spotify Application
  - Supports any web browser based applications and allows touch, keyboard, and audio input / output
+ - Reverse Cameras through USB
+ - Customizable Camera Angles on Car Model
+ - Headlight, Turn Signal, etc. Control through Buttons in World Space
+ - and more...
 
 ### Supported platforms
 
