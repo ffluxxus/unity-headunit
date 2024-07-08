@@ -1,5 +1,5 @@
 
-# DIY Unity Based Headunit : Purchase Full Project [Here](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
+# DIY Unity Based Headunit <> Purchase Full Project [Here](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
 
 [![License](https://fluxus.000.pe/unity-headunit/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
