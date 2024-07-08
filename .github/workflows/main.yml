@@ -1,1 +1,23 @@
 
+name: Build
+
+on:
+  push
+
+jobs:
+  #This job builds the Unity project
+  build-core:
+    name: 'buildpackage'
+    runs-on: ubuntu-22.04
+    steps:
+
+    #Setup the Environment
+    - uses: actions/setup-dotnet@v2
+      name: Setup .NET
+      with:
+        dotnet-version: '8.0.x'
+
+    #Create an output directory for artifacts
+    - name: Create Artifacts Staging Directory
+      shell: pwsh
+      run: mkdir ~/UWBStaging/
