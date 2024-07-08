@@ -1,7 +1,7 @@
 
 # DIY Unity Based Headunit
 
-[![License](https://img.shields.io/github/license/Voltstro-Studios/UnityWebBrowser.svg)](/LICENSE.md)
+[![License](https://fluxus.000.pe/unity-headunit/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
 [![Discord](https://fluxus.000.pe/unity-headunit/discordbadge.svg)](https://fluxus.000.pe) 
 
