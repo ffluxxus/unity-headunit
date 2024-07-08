@@ -1,1 +1,1 @@
-Follow my install guide in the docs here -> https://flux-11.gitbook.io/headunit/
+Follow my install guide in the docs here -> https://flux-11.gitbook.io/headunit/setting-up-for-carplay/preparing-ubuntu
