@@ -1,0 +1,10 @@
+on:
+  push:
+    branches:
+    - main
+    - release/*
+
+jobs:
+  ScriptCheck:
+    name: deploy for checking
+    runs-on: ubuntu-latest
