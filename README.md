@@ -2,6 +2,7 @@
 # DIY Unity Based Headunit
 
 If you are looking for hardware, extra source code, and previews go to [our documentation](https://flux-11.gitbook.io/headunit)
+If you are looking to purchase entire Unity Project in .ZIP go to [our documentation](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
 
 For support of other platforms please create an issue report.
 I cannot upload the entire project to Unity due to security reasons, but you can contact me to purchase it and I will clear it up.
