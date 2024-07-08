@@ -7,6 +7,13 @@ import json
 import time
 import os
 
+# THIS REQUIRES A ACTIVE INTERNET CONNECTION
+
+# THIS REQUIRES A ACTIVE INTERNET CONNECTION
+
+# THIS REQUIRES A ACTIVE INTERNET CONNECTION
+
+
 scope = "user-read-currently-playing"
 username = "username"
 client_id = "clientid"
