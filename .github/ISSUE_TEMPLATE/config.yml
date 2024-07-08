@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Unity Headunit Issues
+    url: https://github.com/ffluxxus/unity-headunit/discussions
+    about: Please use discussions page to request features and ask questions!
