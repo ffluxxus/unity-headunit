@@ -1,5 +1,24 @@
 # DIY Unity Based Headunit <> Purchase Full Project [Here](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
 
+---
+
+<a href="http://fluxus.000.pe/">
+  <img
+    height="90"
+    width="90"
+    alt="uhu logo"
+    src="https://github.com/ffluxxus/unity-headunit/.github/uhu.png"
+    align="left"
+  />
+</a>
+
+[**Documentation**](https://flux-11.gitbook.io/headunit) |
+[**Request / Ask**](https://github.com/ffluxxus/unity-headunit/discussions)
+
+:wave: This repo is maintained by [@ffluxxus](https://github.com/ffluxxus). If you see anything wrong or missing, please [file an issue](https://github.com/ffluxxus/unity-headunit/issues/new/choose)! :+1:
+
+---
+
 [![License](!git/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
 [![Discord](!git/discordbadge.svg)](https://fluxus.000.pe) 
