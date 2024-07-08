@@ -7,7 +7,7 @@
     height="90"
     width="90"
     alt="uhu logo"
-    src="https://github.com/ffluxxus/unity-headunit/.github/uhu.png"
+    src="https://github.com/ffluxxus/unity-headunit/blob/main/.github/UHU.png?raw=true"
     align="left"
   />
 </a>
