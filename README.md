@@ -1,12 +1,11 @@
 
-# DIY Unity Based Headunit
+# DIY Unity Based Headunit : Purchase Full Project [Here](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
 
 [![License](https://fluxus.000.pe/unity-headunit/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
 [![Discord](https://fluxus.000.pe/unity-headunit/discordbadge.svg)](https://fluxus.000.pe) 
 
 If you are looking for hardware, extra source code, and previews go to [our documentation](https://flux-11.gitbook.io/headunit)
-If you are looking to purchase entire Unity Project in .ZIP go to [our documentation](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
 
 For support of other platforms please create an issue report.
 I cannot upload the entire project to Unity due to security reasons, but you can contact me to purchase it and I will clear it up.
