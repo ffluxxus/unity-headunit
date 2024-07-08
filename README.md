@@ -3,7 +3,7 @@
 
 [![License](https://fluxus.000.pe/unity-headunit/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
-[![Discord](https://fluxus.000.pe/unity-headunit/discordbadge.svg)](https://fluxus.000.pe) 
+[![Discord](https://fluxus.000.pe/unity-headunit/discordbadge.svg?logo=discord)](https://fluxus.000.pe) 
 
 If you are looking for hardware, extra source code, and previews go to [our documentation](https://flux-11.gitbook.io/headunit)
 
