@@ -1,0 +1,3 @@
+[submodule "ThirdParty/ReactCarplay"]
+	path = unity-project/dependencies/carplaysystem
+	url = https://github.com/ffluxxus/react.git
