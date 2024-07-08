@@ -7,9 +7,9 @@
 
 :wave: This repo is maintained by [@ffluxxus](https://github.com/ffluxxus). If you see anything wrong or missing, please [file an issue](https://github.com/ffluxxus/unity-headunit/issues/new/choose)! :+1:
 
-[![License](!git/licensebadge.svg)](/LICENSE.md)
+[![License](.github/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
-[![Discord](!git/discordbadge.svg)](https://fluxus.000.pe) 
+[![Discord](.github/discordbadge.svg)](https://fluxus.000.pe) 
 
 ---
 
