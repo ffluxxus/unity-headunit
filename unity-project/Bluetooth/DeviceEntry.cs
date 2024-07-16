@@ -24,6 +24,8 @@ public class DeviceEntry : MonoBehaviour
     [SerializeField] private bool paired;
     [SerializeField] private bool trusted;
 
+    public bool activeConnection = false;
+
     private void Awake()
     {
         connectButton.onClick.AddListener(() =>
@@ -91,5 +93,7 @@ public class DeviceEntry : MonoBehaviour
         connectButtonText.text = connected ? "Disconnect" : "Connect";
         pairButtonText.text = paired ? "Remove" : "Pair";
         trustedButtonText.text = trusted ? "Untrust" : "Trust";
+
+        activeConnection = connected ? true : false;
     }
 }
