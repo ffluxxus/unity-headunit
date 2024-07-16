@@ -38,6 +38,9 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
  - Any x86 / x64 System
 
 ### Supported functionalities
+ - Manual and Automatic Gearbox's with Gear Indicators
+ - Mileage and Fuel Level Indicators
+ - Engine Warning Light Indicators
  - Any supported Unity3D resolutions
  - CarPlay supports the basic 480p resolution (max 60FPS)
  - Audio playback from CarPlay
