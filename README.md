@@ -2,6 +2,9 @@
 
 ---
 
+### Help Needed!
+- Currently asking for suggestions on the Fuel Tank Level Indicator. I don't love the current one but it works.
+
 [**Documentation**](https://flux-11.gitbook.io/headunit) |
 [**Request / Ask**](https://github.com/ffluxxus/unity-headunit/discussions)
 
