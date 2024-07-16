@@ -18,7 +18,7 @@ If you are looking for hardware, extra source code, and previews go to [our docu
 For support of other platforms please create an issue report.
 I cannot upload the entire project to Unity due to security reasons, but you can contact me to purchase it and I will clear it up.
 
-![ShowcaseImage](https://github.com/ffluxxus/unity-headunit/blob/main/showcase/screenshot.png?raw=true)
+![ShowcaseImage](https://github.com/ffluxxus/unity-headunit/blob/main/showcase/image_2024-07-15_232121984.png?raw=true)
 *ui is currently in-development and WILL change in the future*
 
 ### Description
