@@ -19,6 +19,7 @@ For support of other platforms please create an issue report.
 I cannot upload the entire project to Unity due to security reasons, but you can contact me to purchase it and I will clear it up.
 
 ![ShowcaseImage](https://github.com/ffluxxus/unity-headunit/blob/main/showcase/screenshot.png?raw=true)
+*ui is currently in-development and WILL change in the future*
 
 ### Description
 Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main component + C++ (arduino). Main goal is to create a universal headunit that runs on any x86 linux system (not rpi).
