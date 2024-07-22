@@ -1,5 +1,5 @@
 # DIY Unity Based Headunit <> Purchase Full Project [Here](https://flux-11.gitbook.io/headunit/purchase-full-project/how-to-purchase)
-Check out our [Trello board](‎https://trello.com/b/Qg1K2m1b) for upcoming features and ideas!
+Check out our trello board for upcoming features and ideas [here](https://trello.com/b/Qg1K2m1b)!
 
 ---
 
