@@ -2,8 +2,11 @@
 
 ---
 
+### Check out our [Trello board](‎https://trello.com/b/Qg1K2m1b) for upcoming features and ideas!
 ### Help Needed!
 - Currently asking for suggestions on the Fuel Tank Level Indicator. I don't love the current one but it works.
+- Currently asking for suggestions on the App Library upcoming feature and what apps would be useful.
+- Currently asking for insight on how helpful internet tethering to the headunit would be, and if you would use it much.
 
 [**Documentation**](https://flux-11.gitbook.io/headunit) |
 [**Request / Ask**](https://github.com/ffluxxus/unity-headunit/discussions)
