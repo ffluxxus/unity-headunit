@@ -78,7 +78,8 @@ CC0-1.0
  - [Node Carplay](https://github.com/rhysmorgan134/node-CarPlay) | Used for CarPlay implementation
 
 ### Remarks
-**This software is not certified by Google Inc nor Apple Inc. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
+**This software is not certified by Google Inc, Apple Inc, nor any other major company. It is created for R&D purposes and may not work as expected by the original authors. Do not use while driving. You use this software at your own risk.**
 
 *AndroidAuto is registered trademark of Google Inc.*
 *Carplay is registered trademark of Apple Inc.*
+*This software has no registered trademarks or copyrights under its name. Nor is it affiliated with any brand or company.*
