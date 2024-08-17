@@ -6,6 +6,7 @@ Check out our trello board for upcoming features and ideas [here](https://trello
 ### Help Needed!
 - Currently asking for suggestions on the Fuel Tank Level Indicator. I don't love the current one but it works.
 - Currently asking for suggestions on the App Library upcoming feature and what apps would be useful.
+- Currently asking for better LiDAR / Camera setups for the 3D world view.
 - Currently asking for insight on how helpful internet tethering to the headunit would be, and if you would use it much.
 
 [**Documentation**](https://flux-11.gitbook.io/headunit) |
@@ -39,9 +40,11 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
 
 ### Supported Systems
  - [YouYeeToo X1 x86 SBC](https://amazon.com/dp/B0CCY2RBCS/)
+ - [Beelink S12 x64 Mini](https://amazon.com/dp/B0BZCQVJTH/)
  - Any x86 / x64 System
 
-### Supported functionalities
+### Supported Functionalities
+ - Realtime 3D World View by LiDAR + Camera Scanning
  - Manual and Automatic Gearbox's with Gear Indicators
  - Mileage and Fuel Level Indicators
  - Engine Warning Light Indicators
@@ -62,15 +65,26 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
  - Headlight, Turn Signal, etc. Control through Buttons in World Space
  - and more...
 
-### Supported platforms
+### Supported Platforms
 
  - Ubuntu
  - Windows `(most features / functions will not work under this operating system)`
 
+### Parts List (outdated)
+ - [Neptune 4 Printer](https://www.amazon.com/dp/B0C745237N)
+ - [LiDAR Sensor](https://www.amazon.com/dp/B088BBJ9SQ)
+ - [USB Hub 4-port](https://www.amazon.com/dp/B0CN3F9Y1Z)
+ - [Bluetooth 5.0](https://www.amazon.com/dp/B08DFBNG7F)
+ - [Arduino MEGA](https://www.amazon.com/dp/B01H4ZDYCE)
+ - [GPS Module](https://www.amazon.com/dp/B01D1D0F5M/)
+ - [RFID Module](https://www.amazon.com/dp/B07VLDSYRW)
+ - [Lowlight Wideangle USB Camera](https://www.amazon.com/dp/B0C36ZVQ5G)
+ - [NVMe SSD](https://www.amazon.com/dp/B0822Y6N1C)
+
 ### License
 CC0-1.0
 
-### Used repositories
+### Used Repositories
  - [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser) | Used for Carplay / Spotify System
  - [Unity Engine Personal](https://unity.com/) 
  - [3D Model Showcase Project](https://github.com/LeoBlanchette/Unity3dModelShowcase) | Used Camera System, Post Processing Effects, used as base project
