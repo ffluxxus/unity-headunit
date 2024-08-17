@@ -65,7 +65,7 @@ Unity-Headunit is an Unity3D Game Engine based headunit using C# as its main com
 ### Supported platforms
 
  - Ubuntu
- - Windows `(major features will not work under this operating system)`
+ - Windows `(most features / functions will not work under this operating system)`
 
 ### License
 CC0-1.0
