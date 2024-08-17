@@ -12,7 +12,7 @@ Check out our trello board for upcoming features and ideas [here](https://trello
 [**Request / Ask**](https://github.com/ffluxxus/unity-headunit/discussions)
 
 :wave: This repo is maintained by [@ffluxxus](https://github.com/ffluxxus). If you see anything wrong or missing, please [file an issue](https://github.com/ffluxxus/unity-headunit/issues/new/choose)! :+1:
-:sad: This repo cannot continue with updates until I purchase the hardware needed to use all the features.
+😔 This repo cannot continue with updates until I purchase the hardware needed to use all the features.
 
 [![License](.github/licensebadge.svg)](/LICENSE.md)
 [![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml)
